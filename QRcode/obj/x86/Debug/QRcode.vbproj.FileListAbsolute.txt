@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\QRcode\obj\x86\Debug\Interop.WinHttp.dll
+C:\Users\hp\Desktop\QRcode\obj\x86\Debug\QRcode.vbproj.ResolveComReference.cache
+C:\Users\hp\Desktop\QRcode\obj\x86\Debug\QRcode.Form1.resources
+C:\Users\hp\Desktop\QRcode\obj\x86\Debug\QRcode.vbproj.GenerateResource.Cache
+C:\Users\hp\Desktop\QRcode\bin\Debug\QRcode.exe
+C:\Users\hp\Desktop\QRcode\bin\Debug\QRcode.pdb
+C:\Users\hp\Desktop\QRcode\bin\Debug\QRcode.xml
+C:\Users\hp\Desktop\QRcode\obj\x86\Debug\QRcode.Resources.resources
+C:\Users\hp\Desktop\QRcode\obj\x86\Debug\QRcode.exe
+C:\Users\hp\Desktop\QRcode\obj\x86\Debug\QRcode.xml
+C:\Users\hp\Desktop\QRcode\obj\x86\Debug\QRcode.pdb
